@@ -1,1 +1,1 @@
-# Frontend_Task-2
+In This project/task me and my team had created basic programs of programming lanaguage with frontend using html,css and javascript we have created two frontend , one is for calculator and other one is text editor with some basic functions of text editor ,succesfully we have implemented and completed the Task-2 given by the Nan mudhulvan team .
